@@ -7,9 +7,11 @@ The goal of this project is to create a simple logistic regression model that ca
 To predict whether a news article is fake or real, the project will use the following steps:
 1. Open the demo notebook in Google Colab [here](https://githubtocolab.com/macarious/predicting_fake_news/blob/main/fake_news_demo.ipynb).
 
-2. Run the notebook by clicking on the "Runtime" tab and selecting "Run all" and the notebook will load the model parameters.
+2. Save a copy of the notebook on your Google Drive.
 
-3. Enter the title of the news article you want to predict in the input box and run the cell to get the prediction.
+3. Run the notebook by clicking on the "Runtime" tab and selecting "Run all" and the notebook will load the model parameters.
+
+4. Enter the title of the news article you want to predict in the input box and run the cell to get the prediction.
 
 ## Dataset
 The dataset used in this project is from Kaggle and can be found [here](https://www.kaggle.com/datasets/vikasukani/news-data-set-fake-news-with-python). The dataset contains three columns: `title`, `text`, and `label`. The `title` column contains the title of the news article and the `text` column contains the text of the news article. The `text` column was not used in this project. The goal of this project is to predict whether a news article is fake or real using logistic regression. The `label` column contains the label of the news article, where `FAKE` indicates that the news article is fake and `REAL` indicates that the news article is real. Approximately 50% of the news articles are fake and 50% are real.
