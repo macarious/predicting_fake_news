@@ -31,3 +31,24 @@ The following metrics were be used to evaluate the logistic regression model:
 
 ## Conclusion
 The logistic regression model was able to predict whether a news article is fake or real with an accuracy of 79.4%. The model performed well in terms of precision, recall, and F1 score. The model can be used to predict whether a news article is fake or real based on its title.
+
+## References
+1] J. Starmer, “Logistic regression,” https://www.youtube.com/watch?v=yIYKR4sgzI8, 2018,
+[Online; accessed 4-April-2024].
+[2] Wikipedia contributors, “Logistic regression – wikipedia, the free encyclopedia,” https://en.
+wikipedia.org/wiki/Logistic regression, 2024, [Online; accessed 4-April-2024].
+[3] H. Kamper, “Introduction to machine learning,” https://www.kamperh.com/data414/, 2024,
+[Online; accessed 4-April-2024].
+[4] Scikit-learn developers, “1.1. linear models,” https://scikit-learn.org/1.1/modules/linear model.
+html?highlight=logistic+regression#logistic-regression, 2022, [Online; accessed 4-April-2024].
+[5] V. Ukani, “News data set - fake or real,” https://www.kaggle.com/datasets/vikasukani/
+news-data-set-fake-news-with-python, 2024, [Online; accessed 4-April-2024].
+[6] J. Brownlee, “How to implement logistic regression from scratch in python,” https://
+machinelearningmastery.com/implement-logistic-regression-stochastic-gradient-descent-scratch-python/,
+2019, [Online; accessed 4-April-2024].
+[7] A. Dalvi, “Implementation of logistic regression without using
+built-in library,” https://medium.com/technology-through-the-prism/
+implementation-of-logistic-regression-without-using-built-in-library-90e2afffa137, 2020, [On-
+line; accessed 4-April-2024].
+[8] Wikipedia contributors, “One-hot – wikipedia, the free encyclopedia,” https://en.wikipedia.
+org/wiki/One-hot, 2024, [Online; accessed 4-April-2024].
